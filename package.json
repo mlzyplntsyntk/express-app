@@ -1,0 +1,7 @@
+{
+    "name": "express-app", "version": "1.0.0", "keywords": ["express", "request", "server"], "author": "Emir Emre SARBAY <emre at sarbay.com>", "contributors": [], "dependencies": {
+		"express": "4.14.0",
+		"body-parser" : "~1.15.2"
+	},
+	"main" : "app"
+}
